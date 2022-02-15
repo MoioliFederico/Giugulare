@@ -6,3 +6,5 @@ print("Brasiamo la padana")
 def mammt():
   moio = input("inserisci il vero nome di quel bacchio di moio: ")
   print("moio")
+def openYourMum(text):
+  print(f"I will open your mum, {text}")
